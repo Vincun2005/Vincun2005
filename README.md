@@ -1,4 +1,6 @@
-<h1 align="center">https://i.pinimg.com/originals/ed/a5/73/eda5739966cb33768d8ad0d77d7307ce.gif</h1>
+<p align="center">
+  <a href=""><img src="https://i.pinimg.com/originals/ed/a5/73/eda5739966cb33768d8ad0d77d7307ce.gif" alt="Banner"></a>
+</p>
 <h1 align="center">Ola 👋, I'm Vincent Lee🌿🐺</h1>
 <h3 align="center">Vincun is Fluffy!</h3>
 
